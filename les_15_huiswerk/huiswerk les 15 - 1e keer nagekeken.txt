@@ -1,0 +1,25 @@
+
+
+09:48 2-11-2022
+
+HUISWERK HOOFDSTUK 15- 1E KEER NAGEKEKEN.
+
+
+
+
+De inhoud van de pagina's wordt correct getoond in de browser en je onderliggende code is over het algemeen goed opgebouwd.
+
+Wel zie ik dat op alle drie de pagina's de <meta> tag niet correct is opgebouwd. Je combineert deze met verschillende attributes wat niet correct is.
+Deel deze op in aparte <meta> tags om goed te gebruiken.
+
+Daarnaast voldoet je opdracht niet aan de opdracht; het zijn nu 3 losse pagina's en alleen op de eerste pagina is een menu aanwezig. Als ik klik op een item opent een nieuwe pagina en kan ik niet 
+verder navigeren via het menu, wat natuurlijk wel de opzet van een website is.
+
+Ook de CSS is niet in een aparte externe stylesheet gezet waardoor je deze in de pagina's verwerkt hebt én voor alle pagina's apart in moet voegen. Men ziet graag dat je dit in dus in een apart CSS bestand plaatst.
+
+Probeer netjes te programmeren door te werken met inspringen (zie bijlage) - dat maakt je code makkelijker leesbaar, fouten sneller te vinden en programmeer je op zo'n manier dat het voor
+ andere webdesigners makkelijk te begrijpen is.
+
+Je basis opbouw is uitstekend - nu nog even de puntjes op de i zetten ;-)
+
+Pas je de website zo aan zodat deze voldoet aan alle 'voorwaarden' zoals in de cursus is beschreven?
